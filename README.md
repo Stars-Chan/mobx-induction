@@ -1,6 +1,7 @@
 # 零、启动项目
 ```shell
 git clone https://github.com/Stars-Chan/mobx-induction
+cd mobx-induction
 yarn
 yarn start
 ```

@@ -1,3 +1,8 @@
+# 零、启动项目
+```shell
+yarn
+yarn start
+```
 # 一、mobx基本介绍
 mobx是一个简单、可扩展状态工具，相比redux，具有以下特点
 - 简洁、无模板代码（redux需要写大量模板代码）
